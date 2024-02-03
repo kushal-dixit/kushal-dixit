@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kushal-dixit
+- 👋 Hi, I’m Kushal Dixit
 - 👀 I’m interested in Software developement stuff.
 - 🌱 I’m currently learning new technologies.
 - 💞️ I’m looking to collaborate on anything.
